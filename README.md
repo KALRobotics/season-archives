@@ -1,2 +1,8 @@
-# season-archives
-End-of-season snapshots, post-mortems, and historical records.
+# Season Archives
+
+Historical records for future reference.
+
+## Why Archive?
+- Learn from past
+- Onboard new members
+- Build on previous work
